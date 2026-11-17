@@ -1,0 +1,4 @@
+[package]
+name = "teil-07-kerker-denker"
+version = "0.1.0"
+edition = "2021"

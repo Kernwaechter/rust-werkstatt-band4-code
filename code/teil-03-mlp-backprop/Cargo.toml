@@ -1,0 +1,4 @@
+[package]
+name = "teil-03-mlp-backprop"
+version = "0.1.0"
+edition = "2021"

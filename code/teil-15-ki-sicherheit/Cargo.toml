@@ -1,0 +1,7 @@
+[package]
+name = "teil-15-ki-sicherheit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10"

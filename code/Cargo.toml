@@ -1,0 +1,20 @@
+[workspace]
+members = [
+    "teil-01-vektoren-matrizen",
+    "teil-02-perzeptron",
+    "teil-03-mlp-backprop",
+    "teil-04-werkstatt-netz",
+    "teil-05-minimax-baum",
+    "teil-06-q-learning",
+    "teil-07-kerker-denker",
+    "teil-08-candle-tensoren",
+    "teil-09-bpe-tokenizer",
+    "teil-10-vektor-datenbank",
+    "teil-11-sentence-embeddings",
+    "teil-12-transformer-attention",
+    "teil-13-lokale-slms",
+    "teil-14-rag-pipeline",
+    "teil-15-ki-sicherheit",
+    "teil-16-tuning-packaging",
+]
+resolver = "2"
